@@ -5,10 +5,7 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.
 
-      *01  HOLD-DATE-WS.
-      *    05 YEAR-WS      PIC 9999.
-      *    05 MONTH-WS     PIC 99.
-      *    05 DAY-WS       PIC 99.
+      
 
        01  REPORT-HEADER-DATE-OUT.
            05 MONTH-OUT    PIC 99.
