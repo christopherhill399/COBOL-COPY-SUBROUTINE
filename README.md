@@ -1,2 +1,2 @@
-# UNT-Mainframe
-A collection of COBOL programs, JCL files, and other mainframe projects.
+# UNT-COPY-SUBROUTINE
+A collection of COBOL programs, subroutines, copybooks, with everyhting needed to make it run on the PC and Mainframe.
